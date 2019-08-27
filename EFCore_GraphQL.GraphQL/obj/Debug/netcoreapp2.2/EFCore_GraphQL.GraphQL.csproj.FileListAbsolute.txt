@@ -1,0 +1,14 @@
+C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.GraphQL\bin\Debug\netcoreapp2.2\EFCore_GraphQL.GraphQL.deps.json
+C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.GraphQL\bin\Debug\netcoreapp2.2\EFCore_GraphQL.GraphQL.dll
+C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.GraphQL\bin\Debug\netcoreapp2.2\EFCore_GraphQL.GraphQL.pdb
+C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.GraphQL\bin\Debug\netcoreapp2.2\EFCore_GraphQL.Models.dll
+C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.GraphQL\bin\Debug\netcoreapp2.2\EFCore_GraphQL.Services.dll
+C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.GraphQL\bin\Debug\netcoreapp2.2\EFCore_GraphQL.Models.pdb
+C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.GraphQL\bin\Debug\netcoreapp2.2\EFCore_GraphQL.Services.pdb
+C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.GraphQL\obj\Debug\netcoreapp2.2\EFCore_GraphQL.GraphQL.csprojAssemblyReference.cache
+C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.GraphQL\obj\Debug\netcoreapp2.2\EFCore_GraphQL.GraphQL.csproj.CoreCompileInputs.cache
+C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.GraphQL\obj\Debug\netcoreapp2.2\EFCore_GraphQL.GraphQL.AssemblyInfoInputs.cache
+C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.GraphQL\obj\Debug\netcoreapp2.2\EFCore_GraphQL.GraphQL.AssemblyInfo.cs
+C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.GraphQL\obj\Debug\netcoreapp2.2\EFCore_GraphQL.GraphQL.csproj.CopyComplete
+C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.GraphQL\obj\Debug\netcoreapp2.2\EFCore_GraphQL.GraphQL.dll
+C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.GraphQL\obj\Debug\netcoreapp2.2\EFCore_GraphQL.GraphQL.pdb
