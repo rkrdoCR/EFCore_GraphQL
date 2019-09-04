@@ -1,8 +1,0 @@
-C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.Models\bin\Debug\netcoreapp2.2\EFCore_GraphQL.Models.deps.json
-C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.Models\bin\Debug\netcoreapp2.2\EFCore_GraphQL.Models.dll
-C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.Models\bin\Debug\netcoreapp2.2\EFCore_GraphQL.Models.pdb
-C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.Models\obj\Debug\netcoreapp2.2\EFCore_GraphQL.Models.csproj.CoreCompileInputs.cache
-C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.Models\obj\Debug\netcoreapp2.2\EFCore_GraphQL.Models.AssemblyInfoInputs.cache
-C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.Models\obj\Debug\netcoreapp2.2\EFCore_GraphQL.Models.AssemblyInfo.cs
-C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.Models\obj\Debug\netcoreapp2.2\EFCore_GraphQL.Models.dll
-C:\Users\ralfaro\Documents\Visual Studio 2017\Projects\EFCore_GraphQL\EFCore_GraphQL.Models\obj\Debug\netcoreapp2.2\EFCore_GraphQL.Models.pdb
